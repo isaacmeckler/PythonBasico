@@ -1,4 +1,4 @@
-#Hoja de trabajo 1
+#Hoja de trabajo 2
 
 # Ejercicio 1
 n = int(input("Introduce un número entero postivo: "))
